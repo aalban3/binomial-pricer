@@ -1,0 +1,28 @@
+# CMake build directory
+cmake-build-*/
+
+# CLion specific files
+.idea/
+*.iml
+
+# Executables and object files
+*.exe
+*.o
+*.obj
+
+# Library files
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Log files
+*.log
+
+# User-specific files (e.g., local configuration)
+*.user
